@@ -12,3 +12,6 @@ lenet_solver.prototxt and lenet_train_test.prototxt are based off of the files o
 
 I reduced the batch sizes because my gpu's memory was maxing out
 
+Github is not allowing me to upload yearbook_train_lmdb and yearbook_val_lmdb for the full yearbook dataset because the files are too large.
+
+
